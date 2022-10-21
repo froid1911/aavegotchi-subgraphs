@@ -1,11 +1,11 @@
 {
   "abracadabra": {
-    "schema": "lending",
-    "base": "abracadabra",
-    "protocol": "abracadabra",
+    "schema": "aavegotchi",
+    "base": "aavegotchi",
+    "protocol": "aavegotchi",
     "deployments": {
       "gotchiverse-matic": {
-        "network": "arbitrum",
+        "network": "matic",
         "status": "prod",
         "versions": {
           "schema": "2.0.1",
